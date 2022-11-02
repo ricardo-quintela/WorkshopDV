@@ -2,6 +2,8 @@
 
 Neste workshop com duas partes falaremos da importância deste tópico.
 
+![Workshop de VI](https://media-exp1.licdn.com/dms/image/C4D22AQFOGDBlJGYcqg/feedshare-shrink_2048_1536/0/1667043518162?e=1670457600&v=beta&t=UJ6mJJIDNUUQ1EjzzQukKLP8zCgxuXuyJFrvlVcfTw8)
+
 ## Parte I:
 - O valor de VI
 - Processo
