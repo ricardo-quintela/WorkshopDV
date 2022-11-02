@@ -12,7 +12,7 @@ Neste workshop com duas partes falaremos da importância deste tópico.
 ## Parte II:
 - Prática
 
-Com recurso a um notebook Jupiter.
+Com recurso a um notebook Jupyter.
 
 
 # Requisitos
