@@ -2,7 +2,9 @@
 
 Neste workshop com duas partes falaremos da importância deste tópico.
 
-![Workshop de VI](https://media-exp1.licdn.com/dms/image/C4D22AQFOGDBlJGYcqg/feedshare-shrink_2048_1536/0/1667043518162?e=1670457600&v=beta&t=UJ6mJJIDNUUQ1EjzzQukKLP8zCgxuXuyJFrvlVcfTw8)
+![JEST](https://media-exp1.licdn.com/dms/image/C561BAQGqCbGzLtMUsA/company-background_10000/0/1593205617508?e=1667984400&v=beta&t=ZaoNl-wCiKRAtJR41fYgrNLS2cQWA2gpiqDo_NzZ1Mk)
+
+[JEST.pt](www.jest.pt)
 
 ## Parte I:
 - O valor de VI
