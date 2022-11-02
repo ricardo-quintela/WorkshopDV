@@ -17,8 +17,6 @@ Com recurso a um notebook Jupyter.
 
 # Requisitos
 
-## Python e bibliotecas
-
 - Python 3.8 ou superior.
 
 [Instalar python](https://www.python.org/downloads/release/python-3815/)
@@ -32,4 +30,18 @@ Com recurso a um notebook Jupyter.
 Pode ser utilizado o ficheiro `requirements.txt` para instalar estas bibliotecas.  
 Para o fazer corre-se o comando (na mesma pasta do ficheiro):  
 `pip install -r requirements.txt`
+
+## Jupyter Notebook
+
+### Instalação
+
+Pode ser instalado com o comando `pip install notebook` ou usando o ficheiro `requirements.txt` como instruido acima.  
+
+### Inicialização
+
+Para inicializar o notebook deve ser corrido o comando (na pasta desejada):  
+
+`jupyter notebook`  
+
+O jupyter encarregar-se-á de criar um ambiente próprio para se trabalhar. Tudo o que é necessário fazer é abrir o link que o jupyter cria no browser.
 

@@ -3,3 +3,6 @@ lib/
 bin/
 pyenv.cfg
 
+# jupyter
+.ipynb_checkpoints/
+
