@@ -4,7 +4,7 @@ Neste workshop com duas partes falaremos da importância deste tópico.
 
 ![JEST](https://media-exp1.licdn.com/dms/image/C561BAQGqCbGzLtMUsA/company-background_10000/0/1593205617508?e=1667984400&v=beta&t=ZaoNl-wCiKRAtJR41fYgrNLS2cQWA2gpiqDo_NzZ1Mk)
 
-- Website da [JEST](/www.jest.pt/)
+- Website da [JEST](http://www.jest.pt/)
 - Biografia do professor [Evgheni Polisciuc](https://cdv.dei.uc.pt/authors/evgheni-polisciuc/)
 
 ## Parte I:
